@@ -6,6 +6,5 @@
 .DS_Store
 /build
 /captures
-/AWSMobileHelper
-/app
 /api
+/AWSMobileHelper/build

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_country_code">
+        <item>94</item>
+        <item>15</item>
+        <item>1</item>
+        <item>45</item>
+        <item>213</item>
+        <item>50</item>
+        <item>69</item>
+        <item>70</item>
+        <!--add all country codes here-->
+    </string-array>
+    <string-array name="array_relation_type">
+        <item>Mother</item>
+        <item>Father</item>
+        <item>Son</item>
+        <item>Daughter</item>
+        <item>Brother</item>
+        <item>Sister</item>
+    </string-array>
+</resources>
